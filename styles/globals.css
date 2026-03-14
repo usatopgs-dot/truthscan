@@ -1,0 +1,5 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: linear-gradient(135deg, #f0fdf9 0%, #e8f4fd 50%, #f5f0ff 100%); min-height: 100vh; }
+::selection { background: rgba(34,211,160,0.25); color:#0f172a; }
+textarea::placeholder { color: #cbd5e1; }
+input::placeholder { color: #cbd5e1; }
