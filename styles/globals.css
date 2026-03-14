@@ -1,0 +1,5 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #080810; }
+::selection { background: rgba(0,212,255,0.2); }
+textarea::placeholder { color: #2a2a3a; }
+input::placeholder { color: #2a2a3a; }
